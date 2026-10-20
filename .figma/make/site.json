@@ -1,0 +1,11 @@
+{
+  "title": "IRG Website Slider V2",
+  "description": "Streamlines project management by enabling teams to collaborate, track tasks, and monitor progress efficiently in a centralized platform.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
